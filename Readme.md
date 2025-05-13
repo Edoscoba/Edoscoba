@@ -45,8 +45,8 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 |                           Contest                            | High risk | Medium risk |                                         Security Report                                          | Ranking | 
 | :----------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------------------: | :-----: |
-| [Crestal Network](https://audits.sherlock.xyz/contests/755) |     1     |      -      | [Report](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/74) |   12   | 
-|   [Symmio, Staking and Vesting](https://audits.sherlock.xyz/contests/838)    |     -     |      1      |                    [Report]( https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/74)                     |    18    | 
+| [Crestal Network](https://audits.sherlock.xyz/contests/755) |     1     |      -      | [Report](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/74) |   12th   | 
+|   [Symmio, Staking and Vesting](https://audits.sherlock.xyz/contests/838)    |     -     |      1      |                    [Report]( https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/74)                     |    18th    | 
 
 
 <!-- ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
