@@ -48,7 +48,11 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 | [Crestal Network](https://audits.sherlock.xyz/contests/755) |     1     |      -      | [Report](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/74) |   12th   | 
 |   [Symmio, Staking and Vesting](https://audits.sherlock.xyz/contests/838)    |     -     |      1      |                    [Report]( https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/74)                     |    18th    | 
 
+## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 
+|                                 Contest                                 | High risk | Medium risk | Low risk |                               Security Report                               | Ranking | Team Name |
+| :---------------------------------------------------------------------: | :-------: | :---------: | :------: | :-------------------------------------------------------------------------: | :-----: | --------- |
+|      [Cabal Liquid Staking Token](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token)      |     -     |   1(solo)   |    -     |  coming soon   |  4th  |           |
 <!-- ## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
 
 |                                          Contest                                          | High risk | Medium risk |                                   Security Report                                    | Ranking | Team Name |
