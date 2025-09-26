@@ -8,6 +8,7 @@ Feel free to reach out through my socials for private audits, and explore some o
 - Code4rena Profile: [Edoscoba](https://code4rena.com/@Edoscoba)
 - Sherlock Profile: [Edoscoba](https://audits.sherlock.xyz/watson/Edoscoba)
 - CodeHawks Profile: [Edoscoba](https://www.codehawks.com/profile/clokuwofs000yih08n1oqrf6d)
+- Cantina Profile:  [edoscoba](https://cantina.xyz/u/edoscoba)
 
 ## Contact Information
 
