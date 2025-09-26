@@ -71,3 +71,12 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 |                                          Contest                                          | High risk | Medium risk |                                   Security Report                                    | Ranking
 | :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: 
 | [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac) |     1     |      1     | [Report](https://codehawks.cyfrin.io/c/2025-02-raac/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |   -    |     -     |
+
+
+
+
+ ##  Private Contests / Audits
+
+|                                          Contest                                          | High risk | Medium risk |                                   Low                                    | Security Report
+| :---------------------------------------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------: | :-----: 
+| [RAAC](https://github.com/SIR-trading/Core)|        |     1     |      6     | Private|    | 
