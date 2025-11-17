@@ -1,5 +1,5 @@
 # About Me
-Hey 👋 I’m Edoscoba — an independent blockchain security researcher dedicated to making decentralized systems safer. I actively participate in audit competitions on platforms like Code4rena, Sherlock, and Codehawks, where I specialize in uncovering and remediating smart contract vulnerabilities before they can be exploited.
+Hey 👋 I’m Edoscoba, an independent blockchain security researcher dedicated to making decentralized systems safer. I actively participate in audit competitions on platforms like Code4rena, Sherlock, and Codehawks, where I specialize in uncovering and remediating smart contract vulnerabilities before they can be exploited.
 
 With a strong background in smart contract development and auditing, my approach combines deep technical analysis with practical insight to deliver actionable security reviews tailored to your protocol’s unique needs. Whether you're preparing for a secure launch or reinforcing an existing system, I bring a meticulous, attacker-first mindset to every audit.
 
