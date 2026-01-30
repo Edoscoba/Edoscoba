@@ -1,4 +1,14 @@
-# About Me
+![image](https://github.com/user-attachments/assets/6b935284-0a7d-4877-b5f6-39fa619be3b3)
+
+<div align="right">
+<h1>Hi there 👋, I'm Edoscoba</h1>
+</div>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=false&vCenter=true&width=500&height=70&lines=Welcome+to+my+GitHub+Profile!)
+
+
+
+## About Me
 Hey 👋 I’m Edoscoba, an independent blockchain developer and a security researcher dedicated to making decentralized systems safer. I actively participate in audit competitions on platforms like Code4rena, Sherlock, and Codehawks, where I specialize in uncovering and remediating smart contract vulnerabilities before they can be exploited.
 
 With a strong background in smart contract development and auditing, my approach combines deep technical analysis with practical insight to deliver actionable security reviews tailored to your protocol’s unique needs. Whether you're preparing for a secure launch or reinforcing an existing system, I bring a meticulous, attacker-first mindset to every audit.
@@ -14,12 +24,21 @@ Feel free to reach out through my socials for private audits, and explore some o
 
 Always seeking new opportunities! Whether it's a job, security audit, or collaboration, hit me up. Let's make things happen!
 
-- Twitter: [@Edoscoba](https://twitter.com/edoscoba)
-- Telegram: [@Edoscoba](https://t.me/Edoscoba)
-- Email: [edoscoba2@gmail.com](edoscoba2@gmail.com)
-- Discord: Edoscoba
+Email: [obisimon86@gmail.com](obisimon86@gmail.com)
 
-# Summary - Edoscoba
+<p><a target="_blank" href="https://twitter.com/edoscoba" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/obi-simon" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://t.me/Edoscoba" style="display:inline-block;">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+ ## 🚀 Languages and Tools I Use</h2>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=go,c,python,rust,firebase,java,mysql,flask,vscode,figma,git,nginx,postgresql,redis,sqlite,docker,bash,postman,linux" />
+</p>
+  
+ 
+ ## Audit-Summary
 
 🥇 - 1st
 🥈 - 2nd
