@@ -13,6 +13,8 @@ Hey 👋 I’m Edoscoba, an independent blockchain developer and a security rese
 
 With a strong background in smart contract development and auditing, my approach combines deep technical analysis with practical insight to deliver actionable security reviews tailored to your protocol’s unique needs. Whether you're preparing for a secure launch or reinforcing an existing system, I bring a meticulous, attacker-first mindset to every audit.
 
+Check out my Portfolio website 👉 https://edoscoba.onrender.com
+
 Feel free to reach out through my socials for private audits, and explore some of my past findings and contest results below.
 
 - Code4rena Profile: [Edoscoba](https://code4rena.com/@Edoscoba)
