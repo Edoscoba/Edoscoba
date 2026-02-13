@@ -71,7 +71,7 @@ Email: [obisimon86@gmail.com](obisimon86@gmail.com)
 ## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 |                           Contest                            | High risk | Medium risk |                                         Security Report                                          | Ranking | 
 | :----------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------------------: | :-----: |
-|    [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol)  |     -     |      1      |                      [Report](https://code4rena.com/reports/2025-04-virtuals-protocol)             |     1    | 
+|    [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol)  |     -     |      82      |                      [Report](https://code4rena.com/reports/2025-04-virtuals-protocol)             |     1    | 
 |    [Cabal Liquid Staking Token](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token)  |     -     |    1(solo)        |[Report](https://code4rena.com/reports/2025-04-cabal-liquid-staking-token)                |     4th    | 
 |    [GTE Spot CLOB and Router](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token)  |     -     |       1       |                   coming soon             |     -    | 
 
